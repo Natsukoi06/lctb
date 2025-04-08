@@ -6,6 +6,7 @@
 int main()
 {
     int x, sum = 0;
+    printf("Nhap 10 so nguyen bat ki: ");
     for(int i = 1; i <= 10; i++)
     {
         scanf("%d", &x);
