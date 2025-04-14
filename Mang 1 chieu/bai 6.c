@@ -3,7 +3,7 @@
 
 int main()
 {
-    freopen("D:\\cykablry\\input.txt", "r", stdin);
+   // freopen("D:\\cykablry\\input.txt", "r", stdin);
     int a[1000];
     int n;
     scanf("%d", &n);
